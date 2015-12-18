@@ -1,0 +1,39 @@
+CHINA SUCCESSFULLY LAUNCHES ITS HOMEGROWN DARK MATTER HUNTER INTO SPACE
+TOMASZ NOWAKOWSKIDECEMBER 17TH, 2015
+ A Long March 2D rocket launch of the Dark Matter Particle Explorer satellite
+A Long March 2D rocket carrying the Dark Matter Particle Explorer satellite blasts off at the Jiuquan Satellite Launch Center in Jiuquan, northwest China’s Gansu Province, Dec. 17, 2015. Photo Credit: Xinhua / Jin Liwang
+China has successfully launched the country’s first-ever dark matter probe on Thursday, Dec. 17. The satellite, named DAMPE (DArk Matter Particle Explorer), blasted off atop a Chinese Long March 2D rocket at 00:12 GMT (7:12 p.m. EST, Dec. 16). The launch took place from Launch Area 4 at the Jiuquan Satellite Launch Center, located in northwest China’s Gansu Province.
+
+Nearly an hour after liftoff, the Chinese media confirmed the success of the mission, stating that the spacecraft reached its targeted Sun-synchronous orbit (SSO) at an altitude of 310 miles (500 km), inclined 97.4 degrees. The successful orbit injection was also confirmed by the U.S. Joint Space Operations Center (JSpOC).
+
+After the launch, the Long March 2D booster started its short vertical ascent lasting only a few seconds and then pitched over and aligned itself with a trajectory heading it south, toward the designated orbit. The rocket’s first stage burned for about three minutes until its separation. Then, the second stage was ignited that controlled the flight to send DAMPE into orbit.
+
+The design of DAMPE satellite.
+The design of DAMPE satellite. Image Credit: Chinese Academy of Sciences
+DAMPE, nicknamed “Wukong” after the Monkey King from the Chinese classic novel, has a mass of about 1,900 kg, consumes about 400 W of power, and is designed to function for three years, but scientists hope it could last five. It will be operated by the Chinese Academy of Sciences (CAS).
+
+DAMPE is designed to detect electrons and photons with unprecedented energy resolution in order to identify possible dark matter signatures. It will have the widest observation spectrum and highest energy resolution of any dark matter probe in the world.
+
+The spacecraft will also measure the flux of nuclei which will bring new insights to the origin and propagation high-energy cosmic rays. With its excellent photon detection capability, the DAMPE mission is also well placed for new discoveries in high-energy cosmic ray astronomy as well.
+
+DAMPE is equipped in the Plastic Scintillator strip Detector (PSD) that serves as anti-coincidence detector and charge detector, the Silicon-Tungsten tracker-converter (STK) that measures the direction of incident particle, a BGO imaging calorimeter that measures the energy with high-energy resolution, and the Neutron Detector (NUD) that gives types of high-energy particle shower. The satellite features also deployable solar arrays.
+
+Dark matter is a hypothetical kind of matter that cannot be seen with telescopes but accounts for most of the matter in the universe. It is one of the most important mysteries of physics. Scientists postulate its existence based on the law of universal gravitation, but they have never directly detected it.
+
+“This is like tracking down the ‘son’ of dark matter – if you cannot find the father, you go to the son and you could learn about at least some properties of his father,” said Chang Jin, chief scientist of the DAMPE project.
+
+The mission is one of the five Chinese scientific space science missions within the framework of the Strategic Pioneer Program on Space Science of the Chinese Academy of Science (CAS) approved in 2011.
+
+Artist's rendering of DAMPE satellite
+Artist’s rendering of DAMPE satellite. Image Credit: dpnc.unige.ch
+China built the probe in collaboration with the University of Geneva (Switzerland) and Italian universities in Bari, Lecce, and Perugia.
+
+“China is already a major player in space. To seek further progress in the field, however, we have to launch more space science satellites,” said Wu Ji, director of National Space Science Center at CAS.
+
+The Long March 2D, used for Thursday’s mission, is a two-stage rocket developed by the Shanghai Academy of Spaceflight Technology. It is mainly used to launch a variety of low-Earth orbit (LEO) satellites. The 135 ft. (41.15 m) tall booster can launch payloads of up to 3.5 metric tons to LEO and has an SSO capability of up to 1.3 metric tons.
+
+The vehicle’s first stage is 91.5 feet (27.9 m) in length with a diameter of 11 feet (3.35 m). It is powered by four YF-21C engines. The upper stage is 35.8 feet (10.9 m) long and has the same diameter as the first stage. It features one YF-24C engine.
+
+The rocket was launched for the first time on Aug. 9, 1992, from the Jiuquan Satellite Launch Center, orbiting the Fanhui Shei Weixing FSW-2-1 recoverable satellite. Long March 2D has an impressive record of 26 successful launches.
+
+Thursday’s liftoff was the 234th Chinese orbital launch and the 221st mission carried out by the Long March vehicle family. It was also the 82nd orbital launch from the Jiuquan Satellite Launch Center and the 18th orbital launch for China this year. The country plans one more launch by the end of 2015. The next Chinese mission will send the Gaofen 4 satellite into space atop a Long March 3B rocket. The exact date of the launch is yet to be announced.

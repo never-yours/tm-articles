@@ -1,0 +1,12 @@
+DuckDuckGo, the privacy-focused web search engine startup, continues to grow rapidly. But it has also struggled to crack the mainstream.
+Through Dec. 15, DuckDuckGo received 3.25 billion search queries this year, according to its publicly posted traffic statistics. That’s up 74% over the same period last year. Monday, Dec. 14 was its first day with more than 12 million direct queries.
+
+DuckDuckGo search queries
+
+But relative to search industry leader Google, DuckDuckGo is still very small. Google has boasted more than 100 billion monthly search queries for a while, whereas DuckDuckGo’s direct queries passed 325 million last month. (DuckDuckGo also processed another 284 million queries in November via its API and from bots.)
+
+Another data point: DuckDuckGo drew 3 million unique visitors on desktop computers in October, according to comScore. That represents more than 100% year-over-year growth, but does not indicate a very large audience. (It’s worth noting the possibility that users of a privacy-focused search engine also make it difficult for comScore to track them.) DuckDuckGo doesn’t disclose what percentage of its searches are conducted on mobile devices, but Google said this year more than half of its searches are now mobile.
+What’s driving growth? DuckDuckGo CEO Gabriel Weinberg, reached via email, credits partnerships launched in 2014 with Apple and Mozilla, and word of mouth.
+He also passes along a Pew study from earlier this year, where 40% of American respondents said they thought search engines “shouldn’t retain information about their activity.” (Google and others use information, including your search queries, to build profiles for ad targeting, among other purposes.)
+Yet that hasn’t translated to action. If 40% of US search queries went through DuckDuckGo, it would be more than half Google’s current size. It seems driving awareness should be a priority for 2016.
+“Our biggest challenge is that most people have not heard of us,” Weinberg says. “We very much want to break out into the mainstream.”
