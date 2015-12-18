@@ -10,4 +10,4 @@
 
 |Текст|Ссылка|
 |----------|:-------------:|
-|[Приватность как залог успеха? Достижения DuckDuckGo за год.](draft/t_DuckDuckGo_70_percent.html)|http://qz.com/574853/duckduckgo-the-search-engine-that-doesnt-track-its-users-grew-more-than-70-this-year/|
+|[Приватность как залог успеха? Достижения DuckDuckGo за год.](draft/t_DuckDuckGo_70_percent.txt)|http://qz.com/574853/duckduckgo-the-search-engine-that-doesnt-track-its-users-grew-more-than-70-this-year/|
