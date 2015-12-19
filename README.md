@@ -11,4 +11,4 @@
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
 |[Приватность как залог успеха? Достижения DuckDuckGo за год.](draft/t_DuckDuckGo_70_percent.html)|http://qz.com/574853/duckduckgo-the-search-engine-that-doesnt-track-its-users-grew-more-than-70-this-year/|100|
-|[Китай успешно запустил свой своего собственного охотника за темной материей](draft/t_China_dark_matter_hunter.html) |http://www.spaceflightinsider.com/missions/space-observatories/china-successfully-launches-homegrown-dark-matter-hunter-space/|100|
+|[Китай успешно запустил своего собственного охотника за темной материей](draft/t_China_dark_matter_hunter.html) |http://www.spaceflightinsider.com/missions/space-observatories/china-successfully-launches-homegrown-dark-matter-hunter-space/|100|
