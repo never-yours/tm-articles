@@ -4,9 +4,9 @@
 
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
-||http://phys.org/news/2015-12-costa-rica-renewable-energy.html|
-||http://games.slashdot.org/story/15/12/19/0213214|
-||http://www.engadget.com/2015/12/19/hevc-license-deal-protects-4k-video/|
+||http://phys.org/news/2015-12-costa-rica-renewable-energy.html|0|
+||http://games.slashdot.org/story/15/12/19/0213214|0|
+||http://www.engadget.com/2015/12/19/hevc-license-deal-protects-4k-video/|0|
 
 ## Опубликовано
 
