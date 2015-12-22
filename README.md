@@ -6,6 +6,7 @@
 |:-------------:|:-------------:|:-------------:|
 ||http://games.slashdot.org/story/15/12/19/0213214|0|
 ||http://www.engadget.com/2015/12/19/hevc-license-deal-protects-4k-video/|0|
+|Deepin 15|personal|0|
 
 ## Опубликовано
 
