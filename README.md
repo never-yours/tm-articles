@@ -4,9 +4,9 @@
 
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
-||http://games.slashdot.org/story/15/12/19/0213214|0|
+|[Street Fighter 5 на Linux](draft/t_Streetfighter.html)|http://games.slashdot.org/story/15/12/19/0213214|100|
 |[Новая схема лицензирования видео](draft/t_HEVC.html)|http://www.engadget.com/2015/12/19/hevc-license-deal-protects-4k-video/|100|
-|Deepin 15|personal|0|
+|Deepin 15|personal|20|
 
 ## Опубликовано
 
