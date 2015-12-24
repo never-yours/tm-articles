@@ -4,6 +4,7 @@
 
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
+|[myGov хочет отключить двухфакторную аутентификацию](draft/t_Australia_otp.html)|http://arstechnica.com/tech-policy/2015/12/australian-government-tells-citizens-to-turn-off-two-factor-authentication/|100|
 |Deepin 15|personal|20|
 
 ## Опубликовано
