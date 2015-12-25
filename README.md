@@ -4,6 +4,7 @@
 
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
+|[Asus заключила сделку с AdBlock Plus](draft/t_ASUS_adblock.html)|http://betanews.com/2015/12/23/asus-users-will-see-fewer-ads-in-2016-thanks-to-adblock-plus/|100|
 |Deepin 15|personal|20|
 
 ## Опубликовано
