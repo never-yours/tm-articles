@@ -4,13 +4,13 @@
 
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
-|[Asus заключила сделку с AdBlock Plus](draft/t_ASUS_adblock.html)|http://betanews.com/2015/12/23/asus-users-will-see-fewer-ads-in-2016-thanks-to-adblock-plus/|100|
 |Deepin 15|personal|20|
 
 ## Опубликовано
 
 |Текст|Ссылка|
 |----------|:-------------:|
+|[С 2016 года во всех новых телефонах и планшетах ASUS будет предустановлен AdBlock Plus](done/t_ASUS_adblock.html)|http://geektimes.ru/post/268362/|
 |[Австралийский правительственный портал призывает жителей отключать двухфакторную аутентификацию](done/t_Australia_otp.html)|http://geektimes.ru/post/268294/|
 |[Street Fighter V выйдет на Linux и SteamOS](done/t_Streetfighter.html)|http://geektimes.ru/post/268206/|
 |[Лицензионные отчисления HEVC были пересмотрены](draft/t_HEVC.html)|http://geektimes.ru/post/268204/|
