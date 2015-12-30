@@ -5,6 +5,7 @@
 |Текст|Ссылка|%|
 |:-------------:|:-------------:|:-------------:|
 |[LinkNYC](draft/t_LinkNYC.html)|http://www.theverge.com/2015/12/28/10674634/linknyc-new-york-public-wifi-installation-photos-gigabit|95|
+|[Rolls-Royce и сверхзвуковые пассажирские перелеты](draft\t_Rolls-Royce_supersonic.html)|100|
 |Deepin 15|personal|20|
 
 ## Опубликовано
